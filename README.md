@@ -13,7 +13,7 @@ This is the frontend application for the Job Portal, built with Next.js, React, 
 
 ## Technology Stack
 
-- **Next.js 13**: React framework with App Router
+- **Next.js 15**: React framework 
 - **TypeScript**: For type safety
 - **Tailwind CSS**: For styling
 - **React Hook Form**: For form handling
